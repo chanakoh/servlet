@@ -1,0 +1,5 @@
+@charset "EUC-KR";
+styles.css
+h1{
+	background-color:#333;
+}

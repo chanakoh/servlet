@@ -1,0 +1,14 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>제품 상세페이지</title>
+</head>
+<body>
+<h1>제품 상세 정보</h1>
+
+<p>제품 ID:<%product.getProductID() %>
+</body>
+</html>
